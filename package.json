@@ -12,6 +12,7 @@
     "migrate": "drizzle-kit migrate"
   },
   "dependencies": {
+    "@clerk/elements": "^0.19.5",
     "@clerk/nextjs": "^6.4.1",
     "dotenv": "^16.4.5",
     "drizzle-orm": "^0.36.3",
